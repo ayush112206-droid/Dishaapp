@@ -1,5 +1,5 @@
 <?php
-define('API_BASE',    'https://dishaonlineclassesapi.classx.co.in');
+define('API_BASE',    'https://ucliveapi.classx.co.in');
 define('APP_NAME',    'Rozgar Learning');
 define('APP_TAGLINE', 'ROZGAR with Ankit · Official Portal');
 define('APP_VERSION', '4.0');
@@ -9,8 +9,8 @@ define('WA_CHANNEL',  'https://whatsapp.com/channel/0029VbAvDSX0QeahEg4kkE3U');
 define('WA_NAME',     'Rozgar with Ankit');
 define('ADMIN_PASS',  'Admin@Rozgar2024');
 define('ADMIN_USER',  'admin');
-define('MASTER_TOKEN',  'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIxMzYxOCIsImVtYWlsIjoiZmV5bmxlYXJuODY3QGdtYWlsLmNvbSIsIm5hbWUiOiJTQU1FRVIiLCJ0aW1lc3RhbXAiOjE3NzE0MTA2NzIsInRlbmFudFR5cGUiOiJ1c2VyIiwidGVuYW50TmFtZSI6ImRpc2hhb25saW5lY2xhc3Nlc19kYiIsInRlbmFudElkIjoiIiwiZGlzcG9zYWJsZSI6ZmFsc2V9.3brTy5ENwRXrUrpYtdy7xBPMXbAcpozI8LvNwDgIZrk');
-define('MASTER_USERID', '213618');
+define('MASTER_TOKEN',  'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjU2NDk3NyIsInRpbWVzdGFtcCI6MTc3OTA3NjM3MywiaXZfdmVyIjo0LCJzZXNzaW9uIjoiZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SnBaQ0k2SWpVMk5EazNOeUlzSW1WdFlXbHNJam9pYTJGc2FYbGhZbWwwZEhVM01VQm5iV0ZwYkM1amIyMGlMQ0p1WVcxbElqb2lRbWwwZEhVZ1MyRnNhWGxoSWl3aWRHVnVZVzUwVkhsd1pTSTZJblZ6WlhJaUxDSjBaVzVoYm5ST1lXMWxJam9pZFdOc2FYWmxYMlJpSWl3aWRHVnVZVzUwU1dRaU9pSWlMQ0prYVhOd2IzTmhZbXhsSWpwbVlXeHpaWDAuUmR4WkxmVnc5OHFDbXJfQURQQkI4WGkxVVZwbll3UUp3V0R3V0ItNFZPayJ9.ls_B7x549ChzKdO-ZUw7v2SRPQ_7fbiCRwoJtSC5S5k');
+define('MASTER_USERID', '564977');
 define('AES_KEY', '638udh3829162018');
 define('AES_IV',  'fedcba9876543210');
 define('DATA_DIR',  __DIR__ . '/data/');
